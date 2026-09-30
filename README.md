@@ -20,7 +20,7 @@ and Resource-balanced pipelines for constrained servers.
 
 
 ### Orchestration Tools
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=fff)](#)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=fff)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,7 +30,10 @@ and Resource-balanced pipelines for constrained servers.
 
 
 ### Visualization Tools
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=black)](#)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### GIS tools
+![Qgis](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white)
 
 ### Data Processing Tools
 ![Polars](https://img.shields.io/badge/-Polars-000000?style=for-the-badge&logo=polars&logoColor=white)
@@ -41,3 +44,4 @@ and Resource-balanced pipelines for constrained servers.
 ## You may find me 🔎🐠 on
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Mohamed_El_Manaa-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohamed-el-manaa-3181b7230)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/el-manaa)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanaa.mohamed88@gmail.com)
