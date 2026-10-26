@@ -28,6 +28,8 @@ and Resource-balanced pipelines for constrained servers.
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
 ![Duckdb](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
 
+### Object Storage
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff&style=for-the-badge)
 
 ### Visualization Tools
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=black)
