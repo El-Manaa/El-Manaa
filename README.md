@@ -2,7 +2,7 @@
   <img src="./minecraft-pipeline.svg" alt="Minecraft pipeline: chest, hopper, furnace, copper golem sorting ingots" width="100%">
 </p>
 
-# ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focusing on Data & Analytics Engineering.
+# ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focused on Data & Analytics Engineering.
 
 > [!NOTE]
 > Passionate about Data Pipelines, Databases and Data Warehouses.
