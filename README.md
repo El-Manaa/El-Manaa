@@ -5,7 +5,7 @@
 # ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focused on Data & Analytics Engineering.
 
 > [!NOTE]
-> Passionate about Data Pipelines, Databases and Data Warehouses.
+> <font size="5">Passionate about Data Pipelines, Databases and Data Warehouses.</font>
 
 > [!TIP]
 > Built internship-related projects around ML-based text analysis, Data Warehousing and Pipelines.
