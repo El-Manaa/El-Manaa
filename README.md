@@ -2,13 +2,17 @@
   <img src="./minecraft-pipeline.svg" alt="Minecraft pipeline: chest, hopper, furnace, copper golem sorting ingots" width="100%">
 </p>
 
-### ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focusing on Data & Analytics Engineering.
+# ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focusing on Data & Analytics Engineering.
 
-Passionate about Data Pipelines, Databases and Data Warehouses.
-During my internships, I built projects around ML-based text analysis, Data Warehousing and Pipelines.
-Those latter projects crystallized my skills in Python, SQL, Data Storage, Containerization and Resource-balanced pipelines for constrained servers.
+> [!NOTE]
+> Passionate about Data Pipelines, Databases and Data Warehouses.
 
-Generally, I care and learn about optimization techniques applied in those targeted domains, such as lazy evaluation, minimizing the consumption of resources and balancing between the largest possible dataframe and the fewest resources
+> [!TIP]
+> Built internship-related projects around ML-based text analysis, Data Warehousing and Pipelines.
+> Strengthened Python, SQL, Data Storage, Containerization and Resource-constrainted servers and pipeline design.
+
+> [!IMPORTANT]
+> Caring and learning about optimization techniques applied in those targeted domains, such as lazy evaluation, minimizing the consumption of resources and balancing between the largest possible dataframe and the fewest resources.
 
 ---
 
