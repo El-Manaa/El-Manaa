@@ -12,7 +12,7 @@
 > Strengthened Python, SQL, Data Storage, Containerization and Resource-constrainted servers and pipeline design.
 
 > [!IMPORTANT]
-> Caring and learning about optimization techniques applied in those targeted domains, such as lazy evaluation, minimizing the consumption of resources and balancing between the largest possible dataframe and the fewest resources.
+> Caring and learning about optimization techniques applied on Databases and Pipelines, such as lazy evaluation, query optimization, minimizing the consumption of resources and balancing between the largest possible dataframe and the fewest resources.
 
 ---
 
