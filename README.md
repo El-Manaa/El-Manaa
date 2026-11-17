@@ -1,4 +1,6 @@
-<h1 align="center">Hello, and Welcome</h1>
+<p align="center">
+  <img src="./minecraft-pipeline.svg" alt="Minecraft pipeline: chest, hopper, furnace, copper golem sorting ingots" width="100%">
+</p>
 
 ### ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focusing on Data & Analytics Engineering.
 
