@@ -8,7 +8,7 @@ Passionate about Data Pipelines, Databases and Data Warehouses.
 During my internships, I built projects around ML-based text analysis, Data Warehousing and Pipelines.
 Those latter projects crystallized my skills in Python, SQL, Data Storage, Containerization and Resource-balanced pipelines for constrained servers.
 
-Generally, I care and learn about optimization techniques applied in those targeted domains, such as lazy evaluation, minimizing the use of resources and balancing between the largest possible dataframe and the fewest resources
+Generally, I care and learn about optimization techniques applied in those targeted domains, such as lazy evaluation, minimizing the consumption of resources and balancing between the largest possible dataframe and the fewest resources
 
 ---
 
