@@ -1,9 +1,11 @@
-## Hello 👋 and welcome 🤗
-# I am Mohamed EL MANAA, a Software Engineering graduate focusing on Data & Analytics Engineering.
-Passionate about Data Engineering, especially Data Pipelines, Databases and Data Warehouses.
+### ❄️ I am Mohamed EL MANAA 🫡; a Software Engineering graduate focusing on Data & Analytics Engineering.
+
+Passionate about Data Pipelines, Databases and Data Warehouses.
 During my internships, I built projects around ML-based text analysis, Data Warehousing and Pipelines.
-Those latter projects crystallized my skills in Python, SQL, Data Storage, Containerization
-and Resource-balanced pipelines for constrained servers.
+Those latter projects crystallized my skills in Python, SQL, Data Storage, Containerization and Resource-balanced pipelines for constrained servers.
+
+Generally, I care and learn about optimization techniques applied in those targeted domains, such as lazy evaluation, minimizing the use of resources and balancing between the largest possible dataframe and the fewest resources
+
 ---
 
 ### Programming Languages
@@ -39,7 +41,6 @@ and Resource-balanced pipelines for constrained servers.
 
 ### Data Processing Tools
 ![Polars](https://img.shields.io/badge/-Polars-000000?style=for-the-badge&logo=polars&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff)
 
 
