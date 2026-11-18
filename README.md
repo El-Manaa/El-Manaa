@@ -53,5 +53,5 @@
 
 
 ## You may find me 🔎🐠 on
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Mohamed_El_Manaa-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohamed-el-manaa-3181b7230)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohamed-el-manaa-3181b7230)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmanaa.mohamed88@gmail.com)
